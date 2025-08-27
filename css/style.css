@@ -48,7 +48,6 @@ section{
     transition: all 0.5s ease;
     flex-wrap: wrap;
 }
-
 .logo{
     font-size: 3rem;
     color: var(--bg-color);

@@ -49,6 +49,7 @@ section{
     flex-wrap: wrap;
 }
 
+
 .logo{
     font-size: 3rem;
     color: var(--bg-color);
